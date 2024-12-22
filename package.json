@@ -2,6 +2,7 @@
   "name": "ttrman",
   "version": "0.1.0",
   "private": true,
+  "description": "An interactive map for route management and automation of player score calculations for Ticket To Ride games",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",

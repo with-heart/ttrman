@@ -7,7 +7,7 @@ export default function Home() {
         <title>ttrman</title>
         <meta
           name="description"
-          content="Open source game manager for the Ticket To Ride board game"
+          content="An interactive map for route management and automation of player score calculations for Ticket To Ride games"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
